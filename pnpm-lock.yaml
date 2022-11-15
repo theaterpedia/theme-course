@@ -1,13 +1,13 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@crearis/base': ^0.0.2
+  '@crearis/base': ^0.0.3
   eslint: ^8.23.1
   nuxt: ^3.0.0-rc.11
   typescript: ^4.8.3
 
 devDependencies:
-  '@crearis/base': 0.0.2
+  '@crearis/base': 0.0.3
   eslint: 8.27.0
   nuxt: 3.0.0-rc.13_eslint@8.27.0+typescript@4.8.4
   typescript: 4.8.4
@@ -315,8 +315,8 @@ packages:
       mime: 3.0.0
     dev: true
 
-  /@crearis/base/0.0.2:
-    resolution: {integrity: sha512-tZjFbmfBqvPLNayMv4W68XR1ImRWXgfqsrcjqy6FP/o5v0a1ykDmRL+jq5JIxKip8FsaVGw2Mndvb/y6s5+54A==}
+  /@crearis/base/0.0.3:
+    resolution: {integrity: sha512-y30Pc6yIXqFRTOtziWB1ryRVNznzVFGp2dZRZAGC39PfIWKIm4sFlqw+UqKYfx9WL0TaBct4NmM6PJbL4FeQ9A==}
     dependencies:
       '@nuxt/content': 2.2.2
       '@nuxtjs/color-mode': 3.1.8
