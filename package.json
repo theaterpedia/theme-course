@@ -12,9 +12,9 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@crearis/base": "^0.0.3",
+    "@crearis/base": "^0.0.4",
     "eslint": "^8.23.1",
-    "nuxt": "^3.0.0-rc.11",
+    "nuxt": "3.0.0-rc.11",
     "typescript": "^4.8.3"
   },
   "dependencies": {
